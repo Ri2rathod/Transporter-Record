@@ -1,0 +1,18 @@
+nav{
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+nav>div>a{
+    font-family: 'Courgette', cursive;
+}
+nav>div>a>span{color:#fa292A}
+.profile_icon{
+    border-radius: 25px;
+}
+.header_{
+    background-color: #f2efea;
+}
+.heading_image>img{
+    background: transparent;
+    border: none;
+}
