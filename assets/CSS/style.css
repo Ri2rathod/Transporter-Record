@@ -12,3 +12,7 @@ nav>div>a>span{color:#fa292A}
 .header_{
     background-color: #f2efea;
 }
+.heading_image>img{
+    background: transparent;
+    border: none;
+}
