@@ -1,0 +1,11 @@
+nav{
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+nav>div>a{
+    font-family: 'Courgette', cursive;
+}
+nav>div>a>span{color:crimson}
+.profile_icon{
+    border-radius: 25px;
+}
