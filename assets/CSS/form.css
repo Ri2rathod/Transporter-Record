@@ -57,6 +57,12 @@
 }
 .sign_up{
   border-radius: 25px;
+  z-index: 1;
 }
-
+form>div>div{
+  z-index: 1;
+}
+.social_sign{
+  border-radius: 50px;
+}
 /* demo */
